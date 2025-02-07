@@ -33,5 +33,5 @@ jobs:
                 file: ./Dockerfile
                 push: true
                 tags: |
-                    DaniDaniel09/practica_7.1:latest
+                    danidaniel09/practica_7.1:latest
                     ghcr.io/danidaniel09/practica_7.1:latest
